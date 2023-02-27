@@ -6,3 +6,5 @@ A mod for Mafia: The City of Lost Heaven (2002)
 - Shadows for coats, other hat types and sex variants can probably be added later, but for now this is all
 - If you see any bugs, please let me know
 - Back-up your files, please!
+
+~ AsaSK / Asa#0330
