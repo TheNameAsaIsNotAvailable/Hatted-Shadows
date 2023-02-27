@@ -1,5 +1,5 @@
 # Hatted Shadows (2022)
-A mod for Mafia: The City of Lost Heaven (2002)
+A mod for Mafia: The City of Lost Heaven (2002).
 
 - This mod produces fedora-wearing shadows for every used player, NPC and cutscene model wearing one
 - Human models not wearing fedoras should not have these shadows
